@@ -1,3 +1,0 @@
-Sitemap: https://team7460.org/sitemap.xml
-
-User-agent: *
